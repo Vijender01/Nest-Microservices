@@ -20,3 +20,5 @@ npm run start:dev
 
 on both the projects
 
+For connections add mongodb to main and sql for admin.
+
